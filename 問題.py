@@ -1,0 +1,7 @@
+print("安安安")
+a=input("請輸入年齡:)")
+aa=input("請輸入姓名:)")
+b=input("請輸入你在學校最討厭的人")
+print(aa+"今年"+a+"歲，"+"他最討厭"+b)
+bb=input("輸入EXIT離開")
+print("886")

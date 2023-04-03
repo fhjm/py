@@ -1,0 +1,11 @@
+import random
+a=random.randrange(1,10)
+aa=random.randrange(1,10)
+input(f'{a}加{aa}答案是:')
+print(f'{a}加{aa}答案是{a+aa}\n')
+input(f'{a}減{aa}答案是:')
+print(f'{a}減{aa}答案是{a-aa}\n')
+input(f'{a}乘{aa}答案是:')
+print(f'{a}乘{aa}答案是{a*aa}\n')
+input(f'{a}除{aa}答案是:')
+print(f'{a}除{aa}答案是{a//aa}')

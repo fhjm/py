@@ -1,0 +1,2 @@
+import random
+print(random.randrange(數字A,數字B))
